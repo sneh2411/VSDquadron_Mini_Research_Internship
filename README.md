@@ -11,5 +11,5 @@ TASK 1: Deadline 20th Feb 2024
 4.install RISC-V GNU Toolchain first, then install Yosys, iverilog, gtkwave. 
 5.Refer to this course :VSD - A complete guide to install open-source EDA tools to install Ubuntu 20.04 using VM
 
-
+TASK 2: Understand the instruction set in detail
 
