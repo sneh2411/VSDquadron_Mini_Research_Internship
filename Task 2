@@ -1,0 +1,6 @@
+RISC V instructions are each of 32 bits or 4 bytes
+These aredivided into fields.
+There are 6 instruction formats 
+1. Register type formats : This uses 3 register inputs Eg : add, mul, AND - All are basically arithmetic and logical operations
+2. 
+
