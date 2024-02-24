@@ -1,9 +1,11 @@
 # VSDquadron_Mini_Research_Internship
 A 4 week Extensive Research based Internship on VSDSquadron Mini board for RTL to Advanced Developers.
 This repositary is mainly to document the learning outcomes and experience of a 4-week Industry style work culture on VLSI and RISC-V using VSDSquadron Mini RISC-V Development kit.
+
 Received development board on 14th February 2024 at 12.45pm.
+
 # VSDquadron_Mini
-     ![VSDS_Mini](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/a0c658dd-52d9-4ced-aab7-ec1761025531)
+     ![VSDS_Mini](C:\Users\Sneha\Downloads)
 # DataSheet 
 
 The first online meeting was conducted on 16th February, 2024, @ 6PM to 7PM
