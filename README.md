@@ -13,7 +13,7 @@ Received development board on 14th February 2024 at 12.45pm.
   [Uploading VSDSQMinidatasheet.pdf…]()
 
 The first online meeting was conducted on 16th February, 2024, @ 6PM to 7PM
-TASK 1: Deadline 20th Feb 2024
+#TASK 1: Deadline 20th Feb 2024
 1.Create GitHub repo. 
 2.Need to have Windows OS, 1TB HDD, 16GB RAM.
 3.Allocate 8GB RAM, 100GB HDD for Oracle Virtual Machine 
