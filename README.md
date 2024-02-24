@@ -5,7 +5,8 @@ This repositary is mainly to document the learning outcomes and experience of a 
 Received development board on 14th February 2024 at 12.45pm.
 
 # VSDquadron_Mini
-     ![VSDS_Mini](C:\Users\Sneha\Downloads)
+    ![VSDS_Mini](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/905ba215-095b-4ba4-94ec-374a9a5f73ca)
+
 # DataSheet 
 
 The first online meeting was conducted on 16th February, 2024, @ 6PM to 7PM
