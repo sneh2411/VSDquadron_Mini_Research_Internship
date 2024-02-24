@@ -1,3 +1,7 @@
+# TASK 2 :
+RISC V Instruction Set pattern
+
+
 RISC V instructions are each of 32 bits or 4 bytes
 These aredivided into fields.
 There are 6 instruction formats 
@@ -11,4 +15,5 @@ Eg: sw x12, x2,8
 4.B-type: conditional branch operations 
 Eg: beq r0, r0 ,15
     bne r0, r1,20
-5.U-type: long immediate operat
+5.U-type: long immediate operation
+
