@@ -4,11 +4,11 @@ This repositary is mainly to document the learning outcomes and experience of a 
 
 Received development board on 14th February 2024 at 12.45pm.
 
-# VSDquadron_Mini
+## VSDquadron_Mini
   
   ![VSDS_Mini](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/2c37b17f-4247-4a84-a2e1-1d5724a26c49)
 
-  # DataSheet 
+  ### DataSheet 
 
   [Uploading VSDSQMinidatasheet.pdf…]()
 
