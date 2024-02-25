@@ -24,8 +24,27 @@ The first online meeting was conducted on 16th February, 2024, @ 6PM to 7PM
 4. install RISC-V GNU Toolchain first, then install Yosys, iverilog, gtkwave. 
 5. Refer to this course :VSD - A complete guide to install open-source EDA tools to install Ubuntu 20.04 using Virtual Box
 
+
+##### Installation of RISC V GNU Tool Chain
+
+
+##### Installation of Yosys
+
+
+##### Installation of iverilog
+
+
+
+
+##### Installation of gtkwave
+
+
+
 #### TASK 2: Understand the instruction set in detail
 RISC V instructions are each of 32 bits or 4 bytes
+
+![32bit RISCV IS](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/a7873ec1-9282-4294-96bd-1168d31eb1f5)
+
 
 ![RISC V Instruction set](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/99e4278e-5b3d-4b94-84de-33eea7b33c35)
 
