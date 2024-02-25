@@ -5,12 +5,15 @@ This repositary is mainly to document the learning outcomes and experience of a 
 Received development board on 14th February 2024 at 12.45pm.
 
 ## VSDquadron_Mini
+
+(https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/files/14395714/VSDSQMinidatasheet.pdf)
+
   
   ![VSDS_Mini](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/2c37b17f-4247-4a84-a2e1-1d5724a26c49)
 
   ### DataSheet 
 
-  [Uploading VSDSQMinidatasheet.pdf…]()
+ The datasheet of VSDSQuadron Mini is as showm as [VSDSQMinidatasheet.pdf]
 
 The first online meeting was conducted on 16th February, 2024, @ 6PM to 7PM
 
