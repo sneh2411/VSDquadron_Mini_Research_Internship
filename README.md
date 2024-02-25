@@ -40,7 +40,7 @@ The first online meeting was conducted on 16th February, 2024, @ 6PM to 7PM
 
 
 
-#### TASK 2: Understand the instruction set in detail
+#### TASK 2: Understand the instruction set in detail     Deadline on 22nd February 2024
 RISC V instructions are each of 32 bits or 4 bytes
 
 ![32bit RISCV IS](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/a7873ec1-9282-4294-96bd-1168d31eb1f5)
@@ -61,4 +61,4 @@ Eg: sw x12, x2,8
 Eg: beq r0, r0 ,15
     bne r0, r1,20
 5. U-type: long immediate operation
-#### TASK 3: Execution of C Based Lab and RISC V based Lab
+#### TASK 3: Execution of C Based Lab and RISC V based Lab   Deadline on 27th February 2024
