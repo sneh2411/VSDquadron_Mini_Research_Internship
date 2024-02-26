@@ -26,10 +26,29 @@ The first online meeting was conducted on 16th February, 2024, @ 6PM to 7PM
 
 
 ##### Installation of RISC V GNU Tool Chain
++ sudo apt install git-all   # To install git and all related packages.
+- sudo apt-get install autoconf automake autotools-dev curl python3 python3-pip libmpc-dev libmpfr-dev libgmp-dev gawk build-essential bison flex texinfo gperf libtool patchutils bc zlib1g-dev libexpat-dev ninja-build git cmake libglib2.0-dev
+* git clone https://github.com/riscv/riscv-gnu-toolchain --recursive
+* mkdir riscv   # in home directory
++ chmod -R 777 /home/extcelxlab/riscv
+- ./configure --prefix=/home/extcelxlab/riscv
+![RISCV](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/db85b633-59cd-4c0c-a287-77d87586cd43)
 
+
+Also, do run below commands for installing build-essentials and avoiding error in gcc installation
+-  sudo apt-get install build-essential
+ Add gcc path in $PATH variable or add in .bashrc file(in home directory), add at last line
++  gvim .bashrc
+*   export PATH= "$PATH:/usr/bin/gcc"
 
 ##### Installation of Yosys
 
+![yosys_commands](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/5a795fd4-a264-4139-a32e-f2c34ed8fd0c)
+
+
+![Yosys](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/f5fb406d-6d11-4506-bd7d-da84f4d0009a)
+
+![Yosys_build](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/fc93dd8c-8e8f-47fd-bb76-88106cefe6a4)
 
 ##### Installation of iverilog
 
@@ -62,3 +81,14 @@ Eg: beq r0, r0 ,15
     bne r0, r1,20
 5. U-type: long immediate operation
 #### TASK 3: Execution of C Based Lab and RISC V based Lab   Deadline on 27th February 2024
+1. Compiling C Code
+
+![CProgram](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/e9b370ea-38a1-4df5-abfc-92ea712399ce)
+
+2. Compiling C code using RISC-V gcc complier
+
+   riscv64-unknown-elf-gcc -o1 -o sum1ton.o sum1ton.c
+   
+4.  After compiling, we can see assembply code generated using RISC-V Objdmp as below
+   riscv64-unknown-elf-objdump -d fact8.o | less
+
