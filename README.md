@@ -87,8 +87,14 @@ Eg: beq r0, r0 ,15
 
 2. Compiling C code using RISC-V gcc complier
 
-   riscv64-unknown-elf-gcc -o1 -o sum1ton.o sum1ton.c
-   
-4.  After compiling, we can see assembply code generated using RISC-V Objdmp as below
-   riscv64-unknown-elf-objdump -d fact8.o | less
+   riscv64-unknown-elf-gcc -o1 -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c
 
+riscv64-unknown-elf-gcc -ofast -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c  ( The number of instruction get reduced)
+   
+   ![task3riscv1](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/321f95e4-7717-434b-9eb0-ffe2eb9c4468)
+
+4.  After compiling, we can see disassembply code generated using RISC-V Objdmp as below
+
+ riscv64-unknown-elf-objdump -d sum1ton.o | less
+
+![task3dump1](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/7fc41f45-664d-4275-a811-656d983ef96c)
