@@ -98,3 +98,13 @@ riscv64-unknown-elf-gcc -ofast -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c  (
  riscv64-unknown-elf-objdump -d sum1ton.o | less
 
 ![task3dump1](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/7fc41f45-664d-4275-a811-656d983ef96c)
+#### TASK 4: Execution of GCC and SPIKE Based RISC V GCC   Deadline on 29th February 2024
+SPIKE Simulation and observation with -O1 and -Ofast. 
+Upload snapshot of compiled C Code, RISC-V Objdmp with above options on your GitHub repo
+1. Sorting program is written in VI editor as shown below
+   ![t1](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/898bbb3d-ca4d-4702-8714-6dcd44354a6f)
+
+2. Output of C code (GCC ) is as follows:
+   ![t2](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/77435bdd-d80a-45a3-b0b0-d08470018a4e)
+
+4. 
