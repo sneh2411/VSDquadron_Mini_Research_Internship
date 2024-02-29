@@ -107,4 +107,7 @@ Upload snapshot of compiled C Code, RISC-V Objdmp with above options on your Git
 2. Output of C code (GCC ) is as follows:
    ![t2](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/77435bdd-d80a-45a3-b0b0-d08470018a4e)
 
-4. 
+3. ![t3](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/8f024994-56a0-4753-83b7-2fe8a67e7468)
+4. ![t4](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/5cd19937-2b6f-440d-8590-69e36d4f3b8f)
+5.
+![t5](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/dcbfdd09-f2dc-4e19-9a45-7481b7d26eed)
