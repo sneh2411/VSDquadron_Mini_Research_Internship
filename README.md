@@ -109,5 +109,7 @@ Upload snapshot of compiled C Code, RISC-V Objdmp with above options on your Git
 
 3. ![t3](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/8f024994-56a0-4753-83b7-2fe8a67e7468)
 4. ![t4](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/5cd19937-2b6f-440d-8590-69e36d4f3b8f)
+Spike simulator not able to install  in vdi. Error is as shown below
 5.
 ![t5](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/dcbfdd09-f2dc-4e19-9a45-7481b7d26eed)
+  
