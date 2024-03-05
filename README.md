@@ -110,6 +110,13 @@ Upload snapshot of compiled C Code, RISC-V Objdmp with above options on your Git
 3. ![t3](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/8f024994-56a0-4753-83b7-2fe8a67e7468)
 4. ![t4](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/5cd19937-2b6f-440d-8590-69e36d4f3b8f)
 Spike simulator not able to install  in vdi. Error is as shown below
-5.
+5. The spike simulator did not work in virtual Image. Need to trouble shoot error for the same.
+6.
 ![t5](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/dcbfdd09-f2dc-4e19-9a45-7481b7d26eed)
   
+#### TASK 5: Execution of  given RISCV Verilog Netlists and Testbench for functional Simulation   Deadline on 5th March 2024
+Before starting this experiment, we are required to install iverlog and gtkwave software. The commands to run the experiment is as follows:
+1. ![Task5_1](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/ddc83b4d-bdc8-4f53-81b0-bd2b1598ff2f)
+Once gtkwave command is given, we get the following:
+3. ![add_4](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/6fe9a5f0-75b7-4d73-b9e7-19e4eef5e2de)
+4. ![Task5_3](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/7dcd68db-2dab-438e-83d0-5ae3f5b7b14e)
