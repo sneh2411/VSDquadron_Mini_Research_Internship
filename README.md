@@ -120,3 +120,4 @@ Before starting this experiment, we are required to install iverlog and gtkwave 
 Once gtkwave command is given, we get the following:
 3. ![add_4](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/6fe9a5f0-75b7-4d73-b9e7-19e4eef5e2de)
 4. ![Task5_3](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/7dcd68db-2dab-438e-83d0-5ae3f5b7b14e)
+#### Final Task as of 7th March, 2024 is GLS for your design and final documentation (Deadline is 14th March)
