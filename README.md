@@ -121,4 +121,19 @@ Once gtkwave command is given, we get the following:
 3. ![add_4](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/6fe9a5f0-75b7-4d73-b9e7-19e4eef5e2de)
 4. ![Task5_3](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/7dcd68db-2dab-438e-83d0-5ae3f5b7b14e)
 #### Final Task as of 7th March, 2024 is GLS for your design and final documentation (Deadline is 14th March)
-Now synthesis is to be done
+1. Synthesis transforms the simple RTL design into a gate-level netlist with all the constraints as specified by the designer. In simple language, Synthesis is a process that converts the abstract form of design to a properly implemented chip in terms of logic gates.
+   Synthesis takes place in multiple stages and the synthesizer used is Yosys:
+   a. Install Yosys
+   b. Next create a yosys_run.sh file , which is the yosys script file used to run the synthesis.
+     The contents of the yosys_run file are given below:
+       ![task0](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/a5704b62-868b-4bb3-8022-ef7521ad59f0)
+   c.  ![task2](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/5388fa0f-c214-45ac-bfe5-7de6faf20b9f)
+  
+   e. ![task5](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/5f439b1e-70d9-4735-aa29-955522396dda)
+   f. ![task6](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/885666a4-a0f2-45e0-8f32-b6a46a3899ed)
+   g. The final Synthesized netlist is as shown below:
+
+    ![task6](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/165af74e-3ffd-4a69-81d1-6b9fd5a460af)
+
+
+
