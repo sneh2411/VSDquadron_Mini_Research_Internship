@@ -4,9 +4,8 @@ This repositary is mainly to document the learning outcomes and experience of a 
 
 Received development board on 14th February 2024 at 12.45pm.
 
-## VSDquadron_Mini
+## VSDquadron_Mini 
 
-  
   ![VSDS_Mini](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/2c37b17f-4247-4a84-a2e1-1d5724a26c49)
 
   ### DataSheet 
@@ -131,9 +130,12 @@ Once gtkwave command is given, we get the following:
   
    e. ![task5](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/5f439b1e-70d9-4735-aa29-955522396dda)
    f. ![task6](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/885666a4-a0f2-45e0-8f32-b6a46a3899ed)
+
    g. The final Synthesized netlist is as shown below:
 
-    ![task6](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/165af74e-3ffd-4a69-81d1-6b9fd5a460af)
+    ![synthesized_netlist](https://github.com/sneh2411/VSDquadron_Mini_Research_Internship/assets/46631767/39c66cbc-7cb0-41b1-9f24-f0568c6b8705)
 
+## ACKNOWLEDGEMENT
+My sincere thanks to Mr.Kunal Ghosh for providing a platform to explore the field of opensource technology in VLSI domain.
 
 
